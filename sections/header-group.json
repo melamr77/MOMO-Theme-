@@ -34,8 +34,8 @@
         "message_qGQyLr"
       ],
       "settings": {
-        "enable_sticky": true,
-        "text_size": "text-xs",
+        "enable_sticky": false,
+        "text_size": "text-base",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
