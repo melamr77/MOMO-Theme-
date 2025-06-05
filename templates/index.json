@@ -11,6 +11,7 @@
   "sections": {
     "custom_html_myFPMN": {
       "type": "custom-html",
+      "disabled": true,
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
@@ -48,6 +49,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/men-s-fashion-accessories-in-the-city.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
