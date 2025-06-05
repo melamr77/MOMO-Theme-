@@ -33,7 +33,7 @@
         "heading_jRV9eK": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "Shop now",
             "heading_tag": "h1"
           }
         }
@@ -45,8 +45,8 @@
       "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
+        "allow_transparent_header": true,
+        "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/Ontwerp zonder titel.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
