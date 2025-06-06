@@ -315,14 +315,28 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_3VTCAV": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection-1",
         "collection-2",
-        "collection-3"
+        "collection-3",
+        "collection_3VTCAV"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
