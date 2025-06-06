@@ -34,7 +34,7 @@
           "type": "heading",
           "settings": {
             "text": "Shop now",
-            "heading_tag": "h1"
+            "heading_tag": "h6"
           }
         }
       },
