@@ -103,6 +103,46 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_ayrPrK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Lc8TBX": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_MpVyfx": {
+          "type": "heading",
+          "settings": {
+            "text": "Onze missie",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_nQ8CwY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>MOMO combineert tijdloos raffinement met Italiaans vakmanschap en streeft naar toegankelijke luxe voor de moderne gentleman die stijl, verfijning en zelfvertrouwen uitstraalt.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Lc8TBX",
+        "heading_MpVyfx",
+        "richtext_nQ8CwY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -174,6 +214,7 @@
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -191,6 +232,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -929,6 +971,7 @@
     "custom_html_myFPMN",
     "video_QWTLb6",
     "slideshow",
+    "rich_text_ayrPrK",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
