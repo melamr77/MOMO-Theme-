@@ -27,11 +27,19 @@
             "text": "DE UITVERKOOP EINDIGT VANDAAG",
             "url": ""
           }
+        },
+        "message_dN48Yr": {
+          "type": "message",
+          "settings": {
+            "text": "Laatste kans op geselecteerde items",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_qGQyLr"
+        "message_qGQyLr",
+        "message_dN48Yr"
       ],
       "settings": {
         "enable_sticky": false,
