@@ -246,22 +246,23 @@
         "text_gradient": ""
       }
     },
-    "featured-collection": {
+    "featured_collection_q6n4Mh": {
       "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
-        "collection": "mannen",
+        "collection": "",
         "products": [],
         "full_width": true,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "SHOP ONZE BESTSELLERS",
+        "title": "Featured collection",
         "content": "",
         "link_url": "",
-        "link_text": "Alles weergeven",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -354,6 +355,31 @@
         "heading_gradient": ""
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "mannen",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "SHOP ONZE BESTSELLERS",
+        "content": "",
+        "link_url": "",
+        "link_text": "Alles weergeven",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -373,6 +399,7 @@
       "block_order": [
         "1664424181b38582d5-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -989,8 +1016,9 @@
     "rich_text_ayrPrK",
     "image-link-blocks",
     "scrolling-text",
-    "featured-collection",
+    "featured_collection_q6n4Mh",
     "collection-list",
+    "featured-collection",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
