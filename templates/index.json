@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "style": "outline",
-            "size": "xl",
+            "size": "lg",
             "text": "Winkelen",
             "url": "",
             "background": "",
