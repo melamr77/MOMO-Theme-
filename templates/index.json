@@ -26,21 +26,28 @@
     "video_QWTLb6": {
       "type": "video",
       "blocks": {
-        "play_CGRiHe": {
-          "type": "play",
-          "settings": {}
-        },
         "heading_jRV9eK": {
           "type": "heading",
           "settings": {
-            "text": "Shop now",
+            "text": "MOMO – Gebouwd op traditie. Gedragen in het nu.",
             "heading_tag": "h6"
+          }
+        },
+        "button_DYxk3i": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "base",
+            "text": "Winkelen",
+            "url": "",
+            "background": "",
+            "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "play_CGRiHe",
-        "heading_jRV9eK"
+        "heading_jRV9eK",
+        "button_DYxk3i"
       ],
       "name": "Video",
       "settings": {
