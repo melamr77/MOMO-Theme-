@@ -969,7 +969,7 @@
         "item_CdDRVh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/alireza-heidarpour-aIQ9XV9wcTE-unsplash.jpg",
+            "image": "shopify://shop_images/boat.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -982,6 +982,7 @@
         "item_pHzaAQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_c8c857e6-b558-47c4-9f21-62203535d5db.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -994,6 +995,7 @@
         "item_V4gPMc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
