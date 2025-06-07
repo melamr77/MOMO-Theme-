@@ -92,7 +92,7 @@
           "type": "newsletter",
           "settings": {
             "image_width": 150,
-            "heading_size": "h4",
+            "heading_size": "h5",
             "title": "SLUIT JE AAN BIJ DE MOMO FAMILIE",
             "content": "<p>Ontvang als eerste updates over nieuwe collecties en exclusieve aanbiedingen.</p>"
           }
