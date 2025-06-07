@@ -107,9 +107,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Contact",
+            "content": "<p>E-mail: info@momoclothing.nl</p><p><strong>Openingstijden</strong></p><p>Maandag-vrijdag: 8:30 - 17:00</p><p>Zaterdag: 10:00 - 17:00</p><p>Zondag: Gesloten</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
