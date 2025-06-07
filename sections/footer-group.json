@@ -91,10 +91,11 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
+            "image": "shopify://shop_images/MOMO_180_x_180_px_-3.png",
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "title": "SLUIT JE AAN BIJ DE MOMO FAMILIE",
+            "content": "<p>Ontvang als eerste updates over nieuwe collecties en exclusieve aanbiedingen.</p>"
           }
         },
         "links": {
