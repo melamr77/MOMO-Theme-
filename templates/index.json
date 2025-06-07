@@ -251,7 +251,16 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "ibiza-cashmere-sweater",
+          "mercurius-half-turtleneck-jumper-in-wool",
+          "cagliari-merino-wool-trutleneck",
+          "capri-merino-wool-zip-sweater",
+          "gstaad-cashmere-quarter-zip-sweater",
+          "sirlus-merino-wool-hoodie",
+          "aman-wool-t-shirt",
+          "bellagio-merino-wool-polo"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
