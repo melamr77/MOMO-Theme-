@@ -116,7 +116,7 @@
           "type": "heading",
           "settings": {
             "text": "Onze missie",
-            "heading_tag": "h3",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
