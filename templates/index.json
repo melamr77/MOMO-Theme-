@@ -990,10 +990,10 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "VEELGESTELDE VRAGEN",
+        "content": "<p>WE ZIJN ER OM JE VRAGEN TE BEANTWOORDEN</p>",
         "team_avatar_width": 160,
-        "support_hours": "Heb je meer hulp nodig? Ons ondersteuningsteam staat voor je klaar.",
+        "support_hours": "Heeft u nog vragen? Ons ondersteuningsteam staat graag voor u klaar.",
         "answer_time": "",
         "button_text": "Contact",
         "button_url": "",
