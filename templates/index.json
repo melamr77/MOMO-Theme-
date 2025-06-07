@@ -574,6 +574,46 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_Qw38Kz": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_84RrbJ": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_YWPJht": {
+          "type": "heading",
+          "settings": {
+            "text": "DE MOMO-GEMEENSCHAP",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_8K4PYr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Meer dan <strong>12.487+</strong> stijlvolle mannen wereldwijd vertrouwen op MOMO voor tijdloze elegantie en vakmanschap.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_84RrbJ",
+        "heading_YWPJht",
+        "richtext_8K4PYr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
@@ -1096,6 +1136,7 @@
     "media-grid",
     "before-after-image",
     "featured_collection_4eGMAi",
+    "rich_text_Qw38Kz",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
