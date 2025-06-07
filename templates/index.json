@@ -956,6 +956,7 @@
         "item_zEAVDB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/glassesshop-LVBGpG5RRZQ-unsplash.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -968,6 +969,7 @@
         "item_CdDRVh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/alireza-heidarpour-aIQ9XV9wcTE-unsplash.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -988,13 +990,52 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_V4gPMc": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_rtVQz7": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_UUEkyL": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "item_NQjbgg",
         "item_zEAVDB",
         "item_CdDRVh",
-        "item_pHzaAQ"
+        "item_pHzaAQ",
+        "item_V4gPMc",
+        "item_rtVQz7",
+        "item_UUEkyL"
       ],
       "name": "Image link blocks",
       "settings": {
