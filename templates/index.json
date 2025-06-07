@@ -940,10 +940,10 @@
     "image_link_blocks_f3dEED": {
       "type": "image-link-blocks",
       "blocks": {
-        "item_NQjbgg": {
+        "item_CdDRVh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash.jpg",
+            "image": "shopify://shop_images/boat.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -966,23 +966,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_CdDRVh": {
+        "item_NQjbgg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/boat.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_pHzaAQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_c8c857e6-b558-47c4-9f21-62203535d5db.jpg",
+            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -996,6 +983,19 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_pHzaAQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_c8c857e6-b558-47c4-9f21-62203535d5db.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -1020,11 +1020,11 @@
         }
       },
       "block_order": [
-        "item_NQjbgg",
-        "item_zEAVDB",
         "item_CdDRVh",
-        "item_pHzaAQ",
+        "item_zEAVDB",
+        "item_NQjbgg",
         "item_V4gPMc",
+        "item_pHzaAQ",
         "item_UwjCUU"
       ],
       "name": "Image link blocks",
