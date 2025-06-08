@@ -472,7 +472,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/man-poses-in-light-colored-overcoat.jpg",
+            "image": "shopify://shop_images/16.jpg",
             "title": "HEREN BOVENKLEDING",
             "heading_tag": "h4",
             "link_url": "shopify://collections/heren-bovenkleding",
@@ -494,7 +494,7 @@
         "image_EHN3C7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mens-fashion-close-up-of-shirt-and-belt.jpg",
+            "image": "shopify://shop_images/Ontwerp_zonder_titel-11.png",
             "title": "HEREN BROEKEN",
             "heading_tag": "h4",
             "link_url": "",
