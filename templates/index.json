@@ -943,7 +943,7 @@
         "item_pVHjj4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/11.jpg",
+            "image": "shopify://shop_images/Ontwerp_zonder_titel-9.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -1071,6 +1071,7 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
