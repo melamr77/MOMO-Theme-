@@ -940,10 +940,10 @@
     "image_link_blocks_f3dEED": {
       "type": "image-link-blocks",
       "blocks": {
-        "item_CdDRVh": {
+        "item_pVHjj4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/boat.jpg",
+            "image": "shopify://shop_images/11.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -953,10 +953,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_zEAVDB": {
+        "item_4Q4gLc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/filip-rankovic-grobgaard-F4JIFejswjE-unsplash.jpg",
+            "image": "shopify://shop_images/12.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -966,7 +966,20 @@
             "overlay_opacity": 0
           }
         },
-        "item_NQjbgg": {
+        "item_h3h8fx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/13.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_MLLrip": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash.jpg",
@@ -979,10 +992,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_WqK3RH": {
+        "item_rCgVMH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash.jpg",
+            "image": "shopify://shop_images/32_Best_Attire_for_Men_Over_50__Amazing_Trendy_Attire_for_Men_Over_50_-_Vhindinews.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -992,23 +1005,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_pHzaAQ": {
+        "item_HiKQMB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/glassesshop-WidHA6plUik-unsplash.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_UwjCUU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5.jpg",
+            "image": "shopify://shop_images/7.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -1020,12 +1020,12 @@
         }
       },
       "block_order": [
-        "item_CdDRVh",
-        "item_zEAVDB",
-        "item_NQjbgg",
-        "item_WqK3RH",
-        "item_pHzaAQ",
-        "item_UwjCUU"
+        "item_pVHjj4",
+        "item_4Q4gLc",
+        "item_h3h8fx",
+        "item_MLLrip",
+        "item_rCgVMH",
+        "item_HiKQMB"
       ],
       "name": "Image link blocks",
       "settings": {
