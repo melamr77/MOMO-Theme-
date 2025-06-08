@@ -472,9 +472,10 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/14.jpg",
+            "title": "HEREN BOVENKLEDING",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/heren-bovenkleding",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
