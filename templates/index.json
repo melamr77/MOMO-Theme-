@@ -966,10 +966,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_h3h8fx": {
+        "item_MLLrip": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/13.jpg",
+            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -979,10 +979,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_MLLrip": {
+        "item_h3h8fx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash.jpg",
+            "image": "shopify://shop_images/The_power_of_neutral_colors.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -1022,8 +1022,8 @@
       "block_order": [
         "item_pVHjj4",
         "item_4Q4gLc",
-        "item_h3h8fx",
         "item_MLLrip",
+        "item_h3h8fx",
         "item_rCgVMH",
         "item_HiKQMB"
       ],
