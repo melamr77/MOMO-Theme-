@@ -303,6 +303,7 @@
           "type": "collection",
           "settings": {
             "collection": "outdoorselectie",
+            "image": "shopify://shop_images/19.jpg",
             "subheading": "",
             "title": "HEREN JASSEN",
             "url": "",
