@@ -497,7 +497,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "image_EHN3C7": {
