@@ -287,9 +287,9 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "heren-bovenkleding",
             "subheading": "",
-            "title": "",
+            "title": "HEREN TOPS",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -301,9 +301,9 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "outdoorselectie",
             "subheading": "",
-            "title": "",
+            "title": "HEREN JASSEN",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -315,9 +315,10 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "broeken",
+            "image": "shopify://shop_images/12A2E471-1748-4608-8FE6-91EE578DCAE4.jpg",
             "subheading": "",
-            "title": "",
+            "title": "HEREN BROEKEN",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -329,9 +330,10 @@
         "collection_3VTCAV": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "schoenen-exclusieve-selectie",
+            "image": "shopify://shop_images/4_3a55b5fd-89ba-40a7-9837-788c001a3f1d.png",
             "subheading": "",
-            "title": "",
+            "title": "HEREN SCHOENEN",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -350,10 +352,10 @@
       "settings": {
         "full_width": true,
         "stack_collections": false,
-        "collections_per_row": 3,
+        "collections_per_row": 4,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "HEREN TOPS",
+        "title": "",
         "content": "",
         "link_url": "shopify://collections/heren-bovenkleding",
         "link_text": "View all",
