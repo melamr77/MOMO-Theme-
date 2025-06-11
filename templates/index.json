@@ -562,7 +562,12 @@
       "name": "Featured collection",
       "settings": {
         "collection": "schoenen-exclusieve-selectie",
-        "products": [],
+        "products": [
+          "chic-loafers",
+          "casual-suede-loafers-1",
+          "casual-suede-loafers",
+          "high-loafers"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
