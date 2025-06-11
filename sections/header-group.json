@@ -55,7 +55,7 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": false,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/MOMO_180_x_180_px_-3.png",
         "logo_max_width": 110,
         "logo_mobile_max_width": 100,
