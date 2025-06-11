@@ -331,7 +331,7 @@
           "type": "collection",
           "settings": {
             "collection": "schoenen-exclusieve-selectie",
-            "image": "shopify://shop_images/4_3a55b5fd-89ba-40a7-9837-788c001a3f1d.png",
+            "image": "shopify://shop_images/Overview_12_ee9ef447-1651-41fd-8b92-6b6ed377a1df.jpg",
             "subheading": "",
             "title": "HEREN SCHOENEN",
             "url": "",
@@ -369,8 +369,13 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "mannen",
-        "products": [],
+        "collection": "broeken",
+        "products": [
+          "arcturus-cashmere-pants",
+          "palm-springs-linen-pantalon",
+          "rio-de-janeiro-linen-pants",
+          "mykonos-linen-pants"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -378,10 +383,10 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "SHOP ONZE BESTSELLERS",
+        "title": "HEREN BROEKEN",
         "content": "",
         "link_url": "",
-        "link_text": "Alles weergeven",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
