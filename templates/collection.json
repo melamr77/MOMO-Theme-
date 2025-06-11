@@ -30,6 +30,46 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_Rc34WC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GdYBPx": {
+          "type": "heading",
+          "settings": {
+            "text": "UITVERKOOP",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_QRUkxP": {
+          "type": "subheading",
+          "settings": {
+            "text": "Hoe meer u koopt, hoe groter uw voordeel!"
+          }
+        },
+        "richtext_jkdqmQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>10%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>2</strong> ARTIKELEN<br/><strong>15%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>3</strong> ARTIKELEN<br/><strong>20%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>4 </strong>ARTIKELEN OF MEER</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdYBPx",
+        "subheading_QRUkxP",
+        "richtext_jkdqmQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -49,6 +89,7 @@
   },
   "order": [
     "banner",
+    "rich_text_Rc34WC",
     "main"
   ]
 }
