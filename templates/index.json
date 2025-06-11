@@ -288,11 +288,11 @@
           "type": "collection",
           "settings": {
             "collection": "heren-bovenkleding",
-            "image": "shopify://shop_images/CB2FC323-D239-473C-AFAA-F8400FA47715.jpg",
+            "image": "shopify://shop_images/Ontwerp_zonder_titel-17.png",
             "subheading": "",
             "title": "HEREN TOPS",
             "url": "",
-            "heading_tag": "h2",
+            "heading_tag": "h4",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
