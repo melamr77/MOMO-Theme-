@@ -966,7 +966,7 @@
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item_4Q4gLc": {
@@ -979,7 +979,7 @@
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item_MLLrip": {
@@ -992,7 +992,7 @@
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item_h3h8fx": {
@@ -1005,7 +1005,7 @@
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item_rCgVMH": {
@@ -1018,7 +1018,7 @@
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item_HiKQMB": {
@@ -1031,7 +1031,7 @@
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         }
       },
