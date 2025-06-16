@@ -116,20 +116,6 @@
         "input_text_color": ""
       }
     },
-    "custom_liquid_JhFfdQ": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"background-color: #f9f9f9; border: 1px solid #e0e0e0; padding: 1.5rem; border-radius: 12px; text-align: center; margin-bottom: 2rem;\">\n  <h3 style=\"font-size: 1.25rem; letter-spacing: 1px; text-transform: uppercase; color: #111; margin-bottom: 0.5rem;\">\n    Uitverkoop – Tot 50% Korting\n  </h3>\n  <p style=\"font-size: 1rem; color: #444; max-width: 600px; margin: 0 auto;\">\n    Profiteer nu van onze exclusieve seizoensuitverkoop en bespaar tot 50% op geselecteerde items.<br>\n    <em>Alleen vandaag geldig – zodra ze weg zijn, komen ze misschien niet meer terug.</em>\n  </p>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -141,7 +127,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "You may also like",
+        "title": "Misschien ook iets voor jou",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -155,7 +141,6 @@
   },
   "order": [
     "main",
-    "custom_liquid_JhFfdQ",
     "related-products"
   ]
 }
