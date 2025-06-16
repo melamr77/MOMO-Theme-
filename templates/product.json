@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_PeQRL7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "vendor": {
           "type": "vendor",
           "settings": {}
@@ -85,6 +91,7 @@
         }
       },
       "block_order": [
+        "liquid_PeQRL7",
         "vendor",
         "title",
         "badges",
