@@ -85,6 +85,46 @@
         "text_color": ""
       }
     },
+    "rich_text_DUJNxd": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8R7ckb": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_p3rfbH": {
+          "type": "heading",
+          "settings": {
+            "text": "UITVERKOOP",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_QreqwM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>10%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>2</strong> ARTIKELEN<br/><strong>15%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>3</strong> ARTIKELEN<br/><strong>20%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>4 </strong>ARTIKELEN OF MEER</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8R7ckb",
+        "heading_p3rfbH",
+        "richtext_QreqwM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -130,6 +170,7 @@
   },
   "order": [
     "text-with-icons",
+    "rich_text_DUJNxd",
     "footer"
   ]
 }
