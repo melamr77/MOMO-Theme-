@@ -88,12 +88,6 @@
     "rich_text_DUJNxd": {
       "type": "rich-text",
       "blocks": {
-        "subheading_8R7ckb": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_p3rfbH": {
           "type": "heading",
           "settings": {
@@ -101,6 +95,12 @@
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "subheading_8R7ckb": {
+          "type": "subheading",
+          "settings": {
+            "text": "Hoe meer u koopt, hoe groter uw voordeel!"
           }
         },
         "richtext_QreqwM": {
@@ -111,8 +111,8 @@
         }
       },
       "block_order": [
-        "subheading_8R7ckb",
         "heading_p3rfbH",
+        "subheading_8R7ckb",
         "richtext_QreqwM"
       ],
       "name": "Rich text",
