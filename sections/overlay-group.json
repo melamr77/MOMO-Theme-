@@ -28,7 +28,7 @@
       "type": "privacy-banner",
       "settings": {
         "privacy_bar_title": "Cookiebeleid",
-        "privacy_bar_content": "<p>We gebruiken cookies en vergelijkbare technologieën om je de best mogelijke ervaring op onze website te bieden. Bekijk ons privacybeleid voor meer informatie.</p>"
+        "privacy_bar_content": "<p>We gebruiken cookies en vergelijkbare technologieën om je de best mogelijke ervaring op onze website te bieden. Bekijk ons <a href=\"/policies/privacy-policy\" title=\"Privacy Policy\">privacybeleid</a> voor meer informatie.</p>"
       }
     },
     "cart-drawer": {
