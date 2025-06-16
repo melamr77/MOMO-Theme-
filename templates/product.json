@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_AGF8Lh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-size:16px; font-weight:500; color:#000;\">\n  <span style=\"color:#000;\">★ ★ ★ ★ ★</span>\n  <span style=\"margin-left:8px; font-size:14px; color:#444;\">4,9 / 5,0 gebaseerd op 495+ beoordelingen</span>\n</div>"
+          }
+        },
         "vendor": {
           "type": "vendor",
           "settings": {}
@@ -91,6 +97,7 @@
         }
       },
       "block_order": [
+        "liquid_AGF8Lh",
         "vendor",
         "title",
         "badges",
