@@ -68,6 +68,12 @@
             "size_chart_page": ""
           }
         },
+        "liquid_kQVmyP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:flex; align-items:center; gap:8px; font-weight:500; color:#444; font-size:14px; text-transform: lowercase;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" \n       stroke-width=\"1.5\" stroke=\"currentColor\" width=\"16\" height=\"16\" \n       style=\"flex-shrink:0;\">\n    <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3\" />\n  </svg>\n  <span>eenvoudig retourneren binnen 14 dagen</span>\n</div>"
+          }
+        },
         "liquid_kjabxz": {
           "type": "liquid",
           "settings": {
@@ -107,6 +113,7 @@
         "separator",
         "description",
         "variant_picker",
+        "liquid_kQVmyP",
         "liquid_kjabxz",
         "quantity_selector",
         "buy_buttons",
