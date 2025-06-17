@@ -397,6 +397,80 @@
         "accordion_text_color": ""
       }
     },
+    "text_with_icons_V4LHLd": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_Xp7QqK": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "GRATIS VERZENDING",
+            "content": "<p>Wij bieden gratis verzending binnen Nederland en België op alle bestellingen.</p>"
+          }
+        },
+        "item_RYXkNg": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "KLANTENSERVICE",
+            "content": "<p>Voor vragen over bestellingen, retouren of advies staan we graag voor je klaar.</p>"
+          }
+        },
+        "item_r3ezDU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "RETOURGARANTIE",
+            "content": "<p>Als je aankoop niet aan je verwachtingen voldoet, kun je deze binnen 14 dagen retourneren.</p>"
+          }
+        },
+        "item_pEdNDa": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "VEILIGE BETALINGEN",
+            "content": "<p>Veilige betaling via iDEAL, Mastercard, Visa, Apple Pay en meer, met beveiligde verwerking.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Xp7QqK",
+        "item_RYXkNg",
+        "item_r3ezDU",
+        "item_pEdNDa"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -422,11 +496,12 @@
   },
   "order": [
     "main",
+    "related-products",
     "rich_text_WMMbBQ",
     "image_link_blocks_gmrBp7",
     "impact_text_LnLiQy",
     "scrolling_text_8nx8PD",
     "faq_J4bpdi",
-    "related-products"
+    "text_with_icons_V4LHLd"
   ]
 }
