@@ -208,29 +208,45 @@
         "item_YgDiPd": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Hoe kan ik mijn bestelling volgen?",
+            "content": "<p>Wanneer je bestelling is verzonden, ontvang je een e-mail met een track & trace-code. Je kunt deze track & trace-code invoeren op onze pagina 'Volg je bestelling'. Als je hier de track and trace-code invoert, kun je de status van je bestelling live volgen.</p>"
           }
         },
         "item_96JHTK": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Hoe lang duurt de verzending?",
+            "content": "<p>Bij Momo geniet je van <strong>gratis verzending binnen Nederland en België</strong>.<br/>Bestellingen worden met zorg verwerkt en meestal binnen 1-3 werkdagen verzonden.<br/>Je ontvangt een trackinglink zodra je pakket onderweg is, zodat je je bestelling eenvoudig kunt volgen.</p>"
           }
         },
         "item_AGRUje": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Leveren jullie in mijn land?",
+            "content": "<p>Landen waarnaar we niet kunnen verzenden, zijn uitgesloten van het afrekenproces. Als je kunt afrekenen, betekent dit dat we naar jouw locatie kunnen verzenden.</p>"
+          }
+        },
+        "item_hNdB7G": {
+          "type": "item",
+          "settings": {
+            "title": "Welke betaalmethoden zijn beschikbaar?",
+            "content": "<p>We bieden meer dan 35 betaalopties, waaronder grote providers zoals Mastercard, Visa, American Express, Klarna, PayPal en Apple Pay, maar ook verschillende lokale betaalmethoden om aan je voorkeuren te voldoen.</p>"
+          }
+        },
+        "item_jdrhjj": {
+          "type": "item",
+          "settings": {
+            "title": "Is het mogelijk om mijn verzendadres te wijzigen?",
+            "content": "<p>Ja, je kunt je verzendadres binnen 24 uur na je bestelling wijzigen.</p><p>Als je wijzigingen wilt aanbrengen, neem dan zo snel mogelijk contact op met onze klantenservice met je bestelnummer en het bijgewerkte verzendadres.</p>"
           }
         }
       },
       "block_order": [
         "item_YgDiPd",
         "item_96JHTK",
-        "item_AGRUje"
+        "item_AGRUje",
+        "item_hNdB7G",
+        "item_jdrhjj"
       ],
       "name": "FAQ",
       "settings": {
