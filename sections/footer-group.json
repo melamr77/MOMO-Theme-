@@ -16,6 +16,7 @@
       "blocks": {
         "heading_p3rfbH": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "DE MOMO-GEMEENSCHAP",
             "heading_tag": "h4",
@@ -25,6 +26,7 @@
         },
         "richtext_QreqwM": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p>Meer dan<strong>12.487+</strong>stijlvolle mannen wereldwijd vertrouwen op MOMO voor tijdloze elegantie en vakmanschap.</p>"
           }
@@ -134,6 +136,7 @@
         "item_dTiUMN",
         "item_W8MNmb"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
@@ -169,6 +172,7 @@
       "block_order": [
         "item_CtdnHp"
       ],
+      "disabled": true,
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -188,6 +192,7 @@
     },
     "scrolling_text_9HrzBB": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
@@ -248,6 +253,7 @@
         "item_hNdB7G",
         "item_jdrhjj"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -333,6 +339,7 @@
         "discount",
         "payment"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
