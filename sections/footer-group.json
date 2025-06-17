@@ -11,6 +11,145 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "rich_text_DUJNxd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_p3rfbH": {
+          "type": "heading",
+          "settings": {
+            "text": "DE MOMO-GEMEENSCHAP",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_QreqwM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Meer dan<strong>12.487+</strong>stijlvolle mannen wereldwijd vertrouwen op MOMO voor tijdloze elegantie en vakmanschap.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_p3rfbH",
+        "richtext_QreqwM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_Hbqywe": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_GzfjzH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash_e244aacf-5e91-4fbe-a26b-a4f3ae4e2128.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LnTPgr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_390fd7d3-65fe-4fb7-ac44-fe4338cf626c.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Cy8cCW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_49d6d5d8-8253-482a-94b0-d53786e9ea46.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LjnjNq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_2e4dc107-89fc-4063-b3e9-a70fba600c65.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_dTiUMN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_3531776a-0250-47b6-8dc0-76d89db0baf3.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_W8MNmb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_81b800bc-7c6f-4099-85b8-8ed31ddaf537.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_GzfjzH",
+        "item_LnTPgr",
+        "item_Cy8cCW",
+        "item_LjnjNq",
+        "item_dTiUMN",
+        "item_W8MNmb"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -85,39 +224,6 @@
         "text_color": ""
       }
     },
-    "rich_text_DUJNxd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_p3rfbH": {
-          "type": "heading",
-          "settings": {
-            "text": "DE MOMO-GEMEENSCHAP",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_QreqwM": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Meer dan<strong>12.487+</strong>stijlvolle mannen wereldwijd vertrouwen op MOMO voor tijdloze elegantie en vakmanschap.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_p3rfbH",
-        "richtext_QreqwM"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -162,8 +268,9 @@
     }
   },
   "order": [
-    "text-with-icons",
     "rich_text_DUJNxd",
+    "image_link_blocks_Hbqywe",
+    "text-with-icons",
     "footer"
   ]
 }
