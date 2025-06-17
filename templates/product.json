@@ -137,6 +137,266 @@
         "input_text_color": ""
       }
     },
+    "rich_text_WMMbBQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TDpyWU": {
+          "type": "heading",
+          "settings": {
+            "text": "DE MOMO-GEMEENSCHAP",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ePQJzF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Meer dan<strong>12.487+</strong>stijlvolle mannen wereldwijd vertrouwen op MOMO voor tijdloze elegantie en vakmanschap.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TDpyWU",
+        "richtext_ePQJzF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_gmrBp7": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_LtNJUx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash_e244aacf-5e91-4fbe-a26b-a4f3ae4e2128.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_XpeqtT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_390fd7d3-65fe-4fb7-ac44-fe4338cf626c.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_U8HnxQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_49d6d5d8-8253-482a-94b0-d53786e9ea46.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_8jyJp8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_2e4dc107-89fc-4063-b3e9-a70fba600c65.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_C6XMBH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_3531776a-0250-47b6-8dc0-76d89db0baf3.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_TB7F63": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_81b800bc-7c6f-4099-85b8-8ed31ddaf537.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_LtNJUx",
+        "item_XpeqtT",
+        "item_U8HnxQ",
+        "item_8jyJp8",
+        "item_C6XMBH",
+        "item_TB7F63"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "impact_text_LnLiQy": {
+      "type": "impact-text",
+      "blocks": {
+        "item_zAc9Ex": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "GELD TERUG GARANTIE!",
+            "content": "<p>Bij Momo Clothing staat klanttevredenheid voorop. Ben je niet tevreden, dan kun je je bestelling binnen 14 dagen retourneren. Na ontvangst zorgen wij voor een snelle terugbetaling.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_zAc9Ex"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "scrolling_text_8nx8PD": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Niet modieus, Tijdloos • Stijl die spreekt zonder woorden • Voor de heer die zijn eigen koers bepaalt • Sublieme kwaliteit onvergetelijke indruk • De essentie van tijdloze verfijning",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 15,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "faq_J4bpdi": {
+      "type": "faq",
+      "blocks": {
+        "item_DbGRda": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe kan ik mijn bestelling volgen?",
+            "content": "<p>Wanneer je bestelling is verzonden, ontvang je een e-mail met een track & trace-code. Je kunt deze track & trace-code invoeren op onze pagina 'Volg je bestelling'. Als je hier de track and trace-code invoert, kun je de status van je bestelling live volgen.</p>"
+          }
+        },
+        "item_fnVMVG": {
+          "type": "item",
+          "settings": {
+            "title": "Hoe lang duurt de verzending?",
+            "content": "<p>Bij Momo geniet je van <strong>gratis verzending binnen Nederland en België</strong>.<br/>Bestellingen worden met zorg verwerkt en meestal binnen 1-3 werkdagen verzonden.<br/>Je ontvangt een trackinglink zodra je pakket onderweg is, zodat je je bestelling eenvoudig kunt volgen.</p>"
+          }
+        },
+        "item_qgXRyG": {
+          "type": "item",
+          "settings": {
+            "title": "Leveren jullie in mijn land?",
+            "content": "<p>Landen waarnaar we niet kunnen verzenden, zijn uitgesloten van het afrekenproces. Als je kunt afrekenen, betekent dit dat we naar jouw locatie kunnen verzenden.</p>"
+          }
+        },
+        "item_tLixrW": {
+          "type": "item",
+          "settings": {
+            "title": "Welke betaalmethoden zijn beschikbaar?",
+            "content": "<p>We bieden meer dan 35 betaalopties, waaronder grote providers zoals Mastercard, Visa, American Express, Klarna, PayPal en Apple Pay, maar ook verschillende lokale betaalmethoden om aan je voorkeuren te voldoen.</p>"
+          }
+        },
+        "item_ERzhKg": {
+          "type": "item",
+          "settings": {
+            "title": "Is het mogelijk om mijn verzendadres te wijzigen?",
+            "content": "<p>Ja, je kunt je verzendadres binnen 24 uur na je bestelling wijzigen.</p><p>Als je wijzigingen wilt aanbrengen, neem dan zo snel mogelijk contact op met onze klantenservice met je bestelnummer en het bijgewerkte verzendadres.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_DbGRda",
+        "item_fnVMVG",
+        "item_qgXRyG",
+        "item_tLixrW",
+        "item_ERzhKg"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "VEELGESTELDE VRAGEN",
+        "content": "<p>Heeft u nog vragen? Ons ondersteuningsteam staat graag voor u klaar.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "Contact",
+        "button_url": "shopify://pages/contact",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -162,6 +422,11 @@
   },
   "order": [
     "main",
+    "rich_text_WMMbBQ",
+    "image_link_blocks_gmrBp7",
+    "impact_text_LnLiQy",
+    "scrolling_text_8nx8PD",
+    "faq_J4bpdi",
     "related-products"
   ]
 }
