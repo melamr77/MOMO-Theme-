@@ -202,6 +202,59 @@
         "text_gradient": ""
       }
     },
+    "faq_HHdLEB": {
+      "type": "faq",
+      "blocks": {
+        "item_YgDiPd": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_96JHTK": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_AGRUje": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_YgDiPd",
+        "item_96JHTK",
+        "item_AGRUje"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "VEELGESTELDE VRAGEN",
+        "content": "<p>Heeft u nog vragen? Ons ondersteuningsteam staat graag voor u klaar.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "Contact",
+        "button_url": "shopify://pages/contact",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -324,6 +377,7 @@
     "image_link_blocks_Hbqywe",
     "impact_text_GbFgr7",
     "scrolling_text_9HrzBB",
+    "faq_HHdLEB",
     "text-with-icons",
     "footer"
   ]
