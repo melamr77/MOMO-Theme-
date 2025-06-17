@@ -150,6 +150,58 @@
         "heading_gradient": ""
       }
     },
+    "impact_text_GbFgr7": {
+      "type": "impact-text",
+      "blocks": {
+        "item_CtdnHp": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "GELD TERUG GARANTIE!",
+            "content": "<p>Bij Momo Clothing staat klanttevredenheid voorop. Ben je niet tevreden, dan kun je je bestelling binnen 14 dagen retourneren. Na ontvangst zorgen wij voor een snelle terugbetaling.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_CtdnHp"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "scrolling_text_9HrzBB": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Niet modieus, Tijdloos • Stijl die spreekt zonder woorden • Voor de heer die zijn eigen koers bepaalt • Sublieme kwaliteit onvergetelijke indruk • De essentie van tijdloze verfijning",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 15,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -270,6 +322,8 @@
   "order": [
     "rich_text_DUJNxd",
     "image_link_blocks_Hbqywe",
+    "impact_text_GbFgr7",
+    "scrolling_text_9HrzBB",
     "text-with-icons",
     "footer"
   ]
