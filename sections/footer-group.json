@@ -91,28 +91,21 @@
         "heading_p3rfbH": {
           "type": "heading",
           "settings": {
-            "text": "UITVERKOOP",
-            "heading_tag": "h1",
+            "text": "DE MOMO-GEMEENSCHAP",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "subheading_8R7ckb": {
-          "type": "subheading",
-          "settings": {
-            "text": "Hoe meer u koopt, hoe groter uw voordeel!"
           }
         },
         "richtext_QreqwM": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>10%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>2</strong> ARTIKELEN<br/><strong>15%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>3</strong> ARTIKELEN<br/><strong>20%</strong> EXTRA KORTING BIJ AANKOOP VAN <strong>4 </strong>ARTIKELEN OF MEER</p>"
+            "content": "<p>Meer dan<strong>12.487+</strong>stijlvolle mannen wereldwijd vertrouwen op MOMO voor tijdloze elegantie en vakmanschap.</p>"
           }
         }
       },
       "block_order": [
         "heading_p3rfbH",
-        "subheading_8R7ckb",
         "richtext_QreqwM"
       ],
       "name": "Rich text",
