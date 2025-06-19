@@ -52,12 +52,18 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_kjabxz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  @keyframes pulseGlow {\n    0% {\n      box-shadow: 0 0 5px 2px rgba(211, 47, 47, 0.7);\n    }\n    50% {\n      box-shadow: 0 0 10px 4px rgba(211, 47, 47, 1);\n    }\n    100% {\n      box-shadow: 0 0 5px 2px rgba(211, 47, 47, 0.7);\n    }\n  }\n\n  .pulse-red {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #D32F2F;\n    animation: pulseGlow 2s infinite;\n  }\n\n  @keyframes pulseGlowOrange {\n    0% {\n      box-shadow: 0 0 5px 2px rgba(255, 167, 38, 0.7);\n    }\n    50% {\n      box-shadow: 0 0 10px 4px rgba(255, 167, 38, 1);\n    }\n    100% {\n      box-shadow: 0 0 5px 2px rgba(255, 167, 38, 0.7);\n    }\n  }\n\n  .pulse-orange {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #FFA726;\n    animation: pulseGlowOrange 2s infinite;\n  }\n</style>\n\n{% if product.tags contains 'rood-voorraad' %}\n  <div style=\"margin-top: 1.5rem; display: flex; align-items: center; gap: 0.5rem;\">\n    <span class=\"pulse-red\"></span>\n    <span style=\"font-size: 0.95rem; color: #D32F2F;\">\n      Bijna uitverkocht\n    </span>\n  </div>\n{% elsif product.tags contains 'oranje-voorraad' %}\n  <div style=\"margin-top: 1.5rem; display: flex; align-items: center; gap: 0.5rem;\">\n    <span class=\"pulse-orange\"></span>\n    <span style=\"font-size: 0.95rem; color: #111;\">\n      Beperkte voorraad\n    </span>\n  </div>\n{% endif %}"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
-            "selector_mode": "block",
+            "selector_mode": "dropdown",
             "color_mode": "variant",
             "size_chart_page": ""
           }
@@ -66,12 +72,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"display:flex; align-items:center; gap:8px; font-weight:500; color:#444; font-size:14px; text-transform: lowercase;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" \n       stroke-width=\"1.5\" stroke=\"currentColor\" width=\"16\" height=\"16\" \n       style=\"flex-shrink:0;\">\n    <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3\" />\n  </svg>\n  <span>eenvoudig retourneren binnen 14 dagen</span>\n</div>"
-          }
-        },
-        "liquid_kjabxz": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  @keyframes pulseGlow {\n    0% {\n      box-shadow: 0 0 5px 2px rgba(211, 47, 47, 0.7);\n    }\n    50% {\n      box-shadow: 0 0 10px 4px rgba(211, 47, 47, 1);\n    }\n    100% {\n      box-shadow: 0 0 5px 2px rgba(211, 47, 47, 0.7);\n    }\n  }\n\n  .pulse-red {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #D32F2F;\n    animation: pulseGlow 2s infinite;\n  }\n\n  @keyframes pulseGlowOrange {\n    0% {\n      box-shadow: 0 0 5px 2px rgba(255, 167, 38, 0.7);\n    }\n    50% {\n      box-shadow: 0 0 10px 4px rgba(255, 167, 38, 1);\n    }\n    100% {\n      box-shadow: 0 0 5px 2px rgba(255, 167, 38, 0.7);\n    }\n  }\n\n  .pulse-orange {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #FFA726;\n    animation: pulseGlowOrange 2s infinite;\n  }\n</style>\n\n{% if product.tags contains 'rood-voorraad' %}\n  <div style=\"margin-top: 1.5rem; display: flex; align-items: center; gap: 0.5rem;\">\n    <span class=\"pulse-red\"></span>\n    <span style=\"font-size: 0.95rem; color: #D32F2F;\">\n      Bijna uitverkocht\n    </span>\n  </div>\n{% elsif product.tags contains 'oranje-voorraad' %}\n  <div style=\"margin-top: 1.5rem; display: flex; align-items: center; gap: 0.5rem;\">\n    <span class=\"pulse-orange\"></span>\n    <span style=\"font-size: 0.95rem; color: #111;\">\n      Beperkte voorraad\n    </span>\n  </div>\n{% endif %}"
           }
         },
         "quantity_selector": {
@@ -132,9 +132,9 @@
         "rating",
         "payment_terms",
         "separator",
+        "liquid_kjabxz",
         "variant_picker",
         "liquid_kQVmyP",
-        "liquid_kjabxz",
         "quantity_selector",
         "buy_buttons",
         "liquid_bTTHPW",
