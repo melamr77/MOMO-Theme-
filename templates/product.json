@@ -68,6 +68,10 @@
             "size_chart_page": ""
           }
         },
+        "size_chart_mp_inline_button_hrxHhX": {
+          "type": "shopify://apps/size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
         "liquid_kQVmyP": {
           "type": "liquid",
           "settings": {
@@ -134,6 +138,7 @@
         "liquid_kjabxz",
         "separator",
         "variant_picker",
+        "size_chart_mp_inline_button_hrxHhX",
         "liquid_kQVmyP",
         "quantity_selector",
         "buy_buttons",
