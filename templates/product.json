@@ -114,6 +114,7 @@
         },
         "collapsible_text_VzxE8K": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Size Guide",
             "content": "<p>Op elke productpagina vind je een maattabel met de exacte afmetingen van onze kleding. Raadpleeg deze altijd om de beste maat voor jou te kiezen.</p><p>Wij adviseren om een maat groter te bestellen voor de perfecte pasvorm.</p><p>Twijfel je nog? Neem gerust contact op met onze klantenservice voor persoonlijk advies.</p>"
