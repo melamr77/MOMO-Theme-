@@ -246,41 +246,6 @@
         "text_gradient": ""
       }
     },
-    "featured_collection_q6n4Mh": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "ibiza-cashmere-sweater",
-          "mercurius-half-turtleneck-jumper-in-wool",
-          "cagliari-merino-wool-trutleneck",
-          "capri-merino-wool-zip-sweater",
-          "gstaad-cashmere-quarter-zip-sweater",
-          "sirlus-merino-wool-hoodie",
-          "aman-wool-t-shirt",
-          "bellagio-merino-wool-polo"
-        ],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 8,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "ONTDEK ONZE BESTSELLERS",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -366,6 +331,41 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "featured_collection_q6n4Mh": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "ibiza-cashmere-sweater",
+          "mercurius-half-turtleneck-jumper-in-wool",
+          "cagliari-merino-wool-trutleneck",
+          "capri-merino-wool-zip-sweater",
+          "gstaad-cashmere-quarter-zip-sweater",
+          "sirlus-merino-wool-hoodie",
+          "aman-wool-t-shirt",
+          "bellagio-merino-wool-polo"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "ONTDEK ONZE BESTSELLERS",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "featured-collection": {
@@ -1176,12 +1176,12 @@
     "rich_text_ayrPrK",
     "image-link-blocks",
     "scrolling-text",
-    "featured_collection_q6n4Mh",
     "collection-list",
+    "featured_collection_q6n4Mh",
+    "media-grid",
     "featured-collection",
     "impact-text",
     "image-with-text-overlay",
-    "media-grid",
     "before-after-image",
     "featured_collection_4eGMAi",
     "rich_text_Qw38Kz",
