@@ -982,10 +982,10 @@
             "overlay_opacity": 15
           }
         },
-        "item_h3h8fx": {
+        "item_rCgVMH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Flux_Dev_A_male_model_wearing_a_white_linen_suit_with_brown_le_1.jpg",
+            "image": "shopify://shop_images/Flux_Dev_A_group_of_stylish_men_enjoying_dinner_outdoors_at_a__3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -995,10 +995,10 @@
             "overlay_opacity": 15
           }
         },
-        "item_rCgVMH": {
+        "item_h3h8fx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Flux_Dev_A_group_of_stylish_men_enjoying_dinner_outdoors_at_a__3.jpg",
+            "image": "shopify://shop_images/Flux_Dev_A_stylish_welldressed_man_wearing_tailored_beige_trou_2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -1038,8 +1038,8 @@
       "block_order": [
         "item_4Q4gLc",
         "item_MLLrip",
-        "item_h3h8fx",
         "item_rCgVMH",
+        "item_h3h8fx",
         "item_V3ABzV",
         "item_HiKQMB"
       ],
