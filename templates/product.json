@@ -228,7 +228,7 @@
         "item_LtNJUx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash_e244aacf-5e91-4fbe-a26b-a4f3ae4e2128.jpg",
+            "image": "shopify://shop_images/Flux_Dev_A_male_model_wearing_a_beige_linen_shirt_and_matching_3_0bfb2ccd-7a35-4abd-b848-5ebba1469576.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -241,20 +241,7 @@
         "item_XpeqtT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_390fd7d3-65fe-4fb7-ac44-fe4338cf626c.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15
-          }
-        },
-        "item_U8HnxQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_49d6d5d8-8253-482a-94b0-d53786e9ea46.png",
+            "image": "shopify://shop_images/Flux_Dev_Closeup_of_soft_beige_cashmere_fabric_gently_blowing__1.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -267,7 +254,20 @@
         "item_8jyJp8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_2e4dc107-89fc-4063-b3e9-a70fba600c65.png",
+            "image": "shopify://shop_images/Flux_Dev_A_group_of_stylish_men_enjoying_dinner_outdoors_at_a__3.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "item_U8HnxQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Flux_Dev_A_stylish_welldressed_man_wearing_tailored_beige_trou_2.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -280,7 +280,7 @@
         "item_fy96CA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_0b145a05-2ee4-45bf-8b11-8d171b2a4c45.png",
+            "image": "shopify://shop_images/Flux_Dev_A_intimate_closeup_shot_of_a_delicate_hand_gently_gli_3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -293,7 +293,7 @@
         "item_ei9Yrj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_5858932f-05a4-40e5-b806-58439d1fd2ee.png",
+            "image": "shopify://shop_images/Flux_Dev_A_male_model_wearing_a_cream_merino_wool_sweater_and__3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -307,8 +307,8 @@
       "block_order": [
         "item_LtNJUx",
         "item_XpeqtT",
-        "item_U8HnxQ",
         "item_8jyJp8",
+        "item_U8HnxQ",
         "item_fy96CA",
         "item_ei9Yrj"
       ],
