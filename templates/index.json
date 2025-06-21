@@ -972,7 +972,7 @@
         "item_MLLrip": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Flux_Dev_A_stylish_welldressed_man_wearing_tailored_beige_trou_3.jpg",
+            "image": "shopify://shop_images/Flux_Dev_Closeup_of_soft_beige_cashmere_fabric_gently_blowing__1.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -985,7 +985,7 @@
         "item_h3h8fx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Flux_Dev_A_intimate_closeup_shot_of_a_delicate_hand_gently_gli_3.jpg",
+            "image": "shopify://shop_images/Flux_Dev_A_male_model_wearing_a_white_linen_suit_with_brown_le_1.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -996,19 +996,6 @@
           }
         },
         "item_rCgVMH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Flux_Dev_Closeup_of_soft_beige_cashmere_fabric_gently_blowing__1.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15
-          }
-        },
-        "item_HiKQMB": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Flux_Dev_A_group_of_stylish_men_enjoying_dinner_outdoors_at_a__3.jpg",
@@ -1022,6 +1009,19 @@
           }
         },
         "item_V3ABzV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Flux_Dev_A_intimate_closeup_shot_of_a_delicate_hand_gently_gli_3.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "item_HiKQMB": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Flux_Dev_A_male_model_wearing_a_cream_merino_wool_sweater_and__0.jpg",
@@ -1040,8 +1040,8 @@
         "item_MLLrip",
         "item_h3h8fx",
         "item_rCgVMH",
-        "item_HiKQMB",
-        "item_V3ABzV"
+        "item_V3ABzV",
+        "item_HiKQMB"
       ],
       "name": "Image link blocks",
       "settings": {
