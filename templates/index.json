@@ -368,6 +368,67 @@
         "product_card_text_color": ""
       }
     },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9B34BDD2-D4F3-4F07-BD4E-9AD9F5BEAC3B.jpg",
+            "title": "HEREN BOVENKLEDING",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections/heren-bovenkleding",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 25
+          }
+        },
+        "image_EHN3C7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/442442786_813405163449473_2742018464769676359_n.jpg",
+            "title": "HEREN BROEKEN",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "image_EHN3C7"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -473,67 +534,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "media-grid": {
-      "type": "media-grid",
-      "blocks": {
-        "item-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/9B34BDD2-D4F3-4F07-BD4E-9AD9F5BEAC3B.jpg",
-            "title": "HEREN BOVENKLEDING",
-            "heading_tag": "h4",
-            "link_url": "shopify://collections/heren-bovenkleding",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 25
-          }
-        },
-        "image_EHN3C7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/442442786_813405163449473_2742018464769676359_n.jpg",
-            "title": "HEREN BROEKEN",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "image_EHN3C7"
-      ],
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
       }
     },
     "before-after-image": {
@@ -959,7 +959,7 @@
         "item_4Q4gLc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/mihaela-claudia-puscas-Em5e2Oo1O_M-unsplash_e244aacf-5e91-4fbe-a26b-a4f3ae4e2128.jpg",
+            "image": "shopify://shop_images/Flux_Dev_A_male_model_wearing_a_beige_linen_shirt_and_matching_3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -985,7 +985,7 @@
         "item_h3h8fx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_49d6d5d8-8253-482a-94b0-d53786e9ea46.png",
+            "image": "shopify://shop_images/Flux_Dev_A_intimate_closeup_shot_of_a_delicate_hand_gently_gli_3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -998,7 +998,7 @@
         "item_rCgVMH": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_2e4dc107-89fc-4063-b3e9-a70fba600c65.png",
+            "image": "shopify://shop_images/Flux_Dev_A_group_of_stylish_men_enjoying_dinner_outdoors_at_a__3.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
