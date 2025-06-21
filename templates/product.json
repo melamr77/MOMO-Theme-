@@ -126,6 +126,12 @@
             "title": "Retourzendingen en ruilen",
             "content": "<p><strong>Niet tevreden met je aankoop? Geen zorgen! Je kunt je artikelen binnen 14 dagen retourneren voor een snelle terugbetaling of omruiling.</strong></p><p>Voor alle details over retourneren en omruilen kun je contact opnemen met onze klantenservice of ons retourbeleid raadplegen.</p>"
           }
+        },
+        "liquid_TVLmyT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% if product.title == \"Santorini leren Loafers\" %}\n\n<div style=\"display: flex; flex-direction: column; gap: 3rem; margin-top: 2rem;\"> <div style=\"display: flex; align-items: center; gap: 2rem;\"> <div style=\"flex: 1;\"> <img src=\"{{ 'santorini-loafers-1.jpg' | asset_url }}\" alt=\"Santorini leren Loafers - Leer\" style=\"width: 100%; border-radius: 8px;\"> </div> <div style=\"flex: 1;\"> <h3>Premium Leer</h3> <p>Onze Santorini leren loafers zijn gemaakt van hoogwaardig volnerf leer, dat luxe uitstraalt en duurzaam is. Voel het zachte materiaal dat perfect om je voet heen vormt.</p> </div> </div> <div style=\"display: flex; align-items: center; gap: 2rem; flex-direction: row-reverse;\"> <div style=\"flex: 1;\"> <img src=\"{{ 'santorini-loafers-2.jpg' | asset_url }}\" alt=\"Santorini leren Loafers - Comfort\" style=\"width: 100%; border-radius: 8px;\"> </div> <div style=\"flex: 1;\"> <h3>Ongeëvenaard Comfort</h3> <p>De loafers zijn voorzien van een comfortabele binnenzool en een perfecte pasvorm, zodat je ze de hele dag moeiteloos draagt.</p> </div> </div> <div style=\"display: flex; align-items: center; gap: 2rem;\"> <div style=\"flex: 1;\"> <img src=\"{{ 'santorini-loafers-3.jpg' | asset_url }}\" alt=\"Santorini leren Loafers - Design\" style=\"width: 100%; border-radius: 8px;\"> </div> <div style=\"flex: 1;\"> <h3>Tijdloos Design</h3> <p>Deze loafers passen bij elke outfit, van casual tot net. Een echte must-have voor de moderne man die stijl hoog in het vaandel heeft.</p> </div> </div> </div>\n{% endif %}"
+          }
         }
       },
       "block_order": [
@@ -147,7 +153,8 @@
         "description",
         "collapsible_text_YmP3aD",
         "collapsible_text_VzxE8K",
-        "collapsible_text_WxHpHY"
+        "collapsible_text_WxHpHY",
+        "liquid_TVLmyT"
       ],
       "settings": {
         "full_width": true,
