@@ -9881,4 +9881,21 @@ split-lines {
 compare-at-price {
   color: #B30000 !important;
 }
+.price-list {
+  display: flex;
+  align-items: baseline;
+  gap: var(--spacing-0-5) var(--spacing-2);
+  flex-wrap: wrap;
+
+  /* Nieuwe regel */
+  flex-direction: row; /* Standaard, maar expliciet benoemd */
+}
+
+.compare-at-price {
+  order: 1;  /* Zorg dat deze eerst komt */
+}
+
+.sale-price {
+  order: 2;  /* En deze daarna */
+}
 
