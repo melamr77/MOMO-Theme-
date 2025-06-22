@@ -9881,21 +9881,20 @@ split-lines {
 compare-at-price {
   color: #B30000 !important;
 }
-.price-list {
-  display: flex;
-  align-items: baseline;
-  gap: var(--spacing-0-5) var(--spacing-2);
-  flex-wrap: wrap;
-
-  /* Nieuwe regel */
-  flex-direction: row; /* Standaard, maar expliciet benoemd */
+price-list {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: baseline !important;
+  gap: var(--spacing-0-5) var(--spacing-2) !important;
+  flex-wrap: wrap !important;
+  justify-content: flex-start !important;
 }
 
-.compare-at-price {
-  order: 1;  /* Zorg dat deze eerst komt */
+compare-at-price {
+  order: 1 !important;
 }
 
-.sale-price {
-  order: 2;  /* En deze daarna */
+sale-price {
+  order: 2 !important;
 }
 
