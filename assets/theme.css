@@ -9879,5 +9879,6 @@ split-lines {
   overflow: hidden;
 }
 compare-at-price {
-  color: red !important;
+  color: #B30000 !important;
 }
+
