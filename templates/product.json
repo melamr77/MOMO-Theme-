@@ -68,6 +68,12 @@
             "product": "{{product}}"
           }
         },
+        "liquid_gMwjDK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% if product.handle == \"elegante-suede-loafers\" %}\n  <script>\n    document.addEventListener(\"DOMContentLoaded\", function () {\n      const observer = new MutationObserver(function () {\n        const bundles = document.querySelectorAll('kaching-bundle');\n\n        if (bundles.length > 1) {\n          const secondBundle = bundles[1];\n\n          // Scroll naar de tweede bundel\n          secondBundle.scrollIntoView({ behavior: 'smooth' });\n\n          // Simuleer klikken op tweede bundel als er een knop is\n          const selectButton = secondBundle.querySelector('[data-action=\"select-bundle\"]');\n          if (selectButton) {\n            selectButton.click();\n          }\n\n          observer.disconnect();\n        }\n      });\n\n      observer.observe(document.body, { childList: true, subtree: true });\n    });\n  </script>\n{% endif %}"
+          }
+        },
         "size_chart_mp_inline_button_hrxHhX": {
           "type": "shopify://apps/size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
           "settings": {}
@@ -158,6 +164,7 @@
         "separator",
         "variant_picker",
         "kaching_bundles_app_block_ihrMRm",
+        "liquid_gMwjDK",
         "size_chart_mp_inline_button_hrxHhX",
         "liquid_kQVmyP",
         "liquid_kjabxz",
