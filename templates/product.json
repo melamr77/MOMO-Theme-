@@ -62,6 +62,12 @@
             "size_chart_page": ""
           }
         },
+        "kaching_bundles_app_block_ihrMRm": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "size_chart_mp_inline_button_hrxHhX": {
           "type": "shopify://apps/size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
           "settings": {}
@@ -151,6 +157,7 @@
         "payment_terms",
         "separator",
         "variant_picker",
+        "kaching_bundles_app_block_ihrMRm",
         "size_chart_mp_inline_button_hrxHhX",
         "liquid_kQVmyP",
         "liquid_kjabxz",
