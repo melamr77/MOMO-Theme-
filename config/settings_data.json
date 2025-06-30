@@ -40,13 +40,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "5460929749692845798": {
-        "type": "shopify://apps/shopacado-discounts/blocks/enable/5950831a-4e4e-40a4-82b0-674110b50a14",
-        "disabled": false,
-        "settings": {
-          "theme_id": "182846128466"
-        }
-      },
       "7241659924025436803": {
         "type": "shopify://apps/size-chart/blocks/app-embed/305100b1-3599-492a-a54d-54f196ff1f94",
         "disabled": false,
